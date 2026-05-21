@@ -5,7 +5,7 @@
 Este proyecto fue desarrollado en equipo como parte del **Curso de Especialización en IA y Big Data** (IES Punta del Verde, 2025-2026).
 
 > ⚠️ **Nota sobre el repositorio:** Este repositorio es un *fork* del proyecto original adaptado para mi portfolio personal.
-> **Repositorio original:** [https://github.com/belenmrqz/Fork_Paula_Belen]
+> **[Repositorio original](https://github.com/belenmrqz/Fork_Paula_Belen)** 
 
 ### 🛠️ Mi contribución principal al proyecto:
 * **Ingeniería de Datos:** Diseño de la arquitectura de la base de datos (modelo en estrella con SQLite) y desarrollo del pipeline ETL conectado a la API del INE.
@@ -551,6 +551,7 @@ La app estará disponible en `http://localhost:8501`.
 ---
 
 **Autora del Fork:** Paula Sánchez Vélez · [@paulaschez](https://github.com/paulaschez)
+
 **Proyecto original creado junto a:** Belén Márquez, Alejandro Bernabé e Ivana Sánchez.
 
 
