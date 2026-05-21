@@ -1,5 +1,20 @@
 # 📈 Análisis de la Evolución del Poder Adquisitivo en España
 
+## 👥 Autoría y Contribuciones
+
+Este proyecto fue desarrollado en equipo como parte del **Curso de Especialización en IA y Big Data** (IES Punta del Verde, 2025-2026).
+
+> ⚠️ **Nota sobre el repositorio:** Este repositorio es un *fork* del proyecto original adaptado para mi portfolio personal.
+> **Repositorio original:** [https://github.com/belenmrqz/Fork_Paula_Belen]
+
+### 🛠️ Mi contribución principal al proyecto:
+* **Ingeniería de Datos:** Diseño de la arquitectura de la base de datos (modelo en estrella con SQLite) y desarrollo del pipeline ETL conectado a la API del INE.
+* **Procesamiento de Datos:** Implementación del procesamiento de datos en memoria de alto rendimiento utilizando Polars.
+* **Machine Learning:** Entrenamiento del modelo *Gradient Boosting* para predecir precios de vivienda y diseño de la estrategia para la prevención de *Data Leakage*.
+* **Despliegue (MLOps):** Desarrollo y despliegue del dashboard interactivo y el simulador predictivo en Streamlit utilizando Plotly y Tableau.
+
+---
+
 ## 🎯 Objetivo del Proyecto
 
 El objetivo principal de este proyecto es analizar la evolución del poder adquisitivo de la clase trabajadora en España mediante un sistema automatizado de **Ingeniería y Análisis de Datos**.
@@ -535,13 +550,7 @@ La app estará disponible en `http://localhost:8501`.
 
 ---
 
-## 🤝 Colaboradores
-
-* Belén Márquez López -> https://github.com/belenmrqz
-* Paula Sánchez Vélez -> https://github.com/paulaschez
-
-* (Fase 1) Alejandro Bernabé Guerrero -> https://github.com/Alebernabe5
-* (Fase 1) Ivana Sánchez Pérez -> https://github.com/Ivanasp43
-
+**Autora del Fork:** Paula Sánchez Vélez · [@paulaschez](https://github.com/paulaschez)
+**Proyecto original creado junto a:** Belén Márquez, Alejandro Bernabé e Ivana Sánchez.
 
 
